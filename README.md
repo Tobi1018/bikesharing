@@ -20,6 +20,8 @@ Used Tableau to create visualizations that shows;
 
 
 
+
+For this visualization, the time frame during which bikes are being checked out by all riders was analyzed.
 <img width="1225" alt="Screen Shot 2021-11-21 at 11 01 30 AM" src="https://user-images.githubusercontent.com/58860105/142769435-cbea59a6-ed9b-4156-87b6-63cd5a88e8d8.png">
 
 
