@@ -12,6 +12,14 @@ Using Python and Pandas functions, converted the "trip-duration" column from an 
 
 ## Deliverable 2
 
+Used Tableau to create visualizations that shows;
+
+* How long bikes are checked out for all riders and genders.
+* How many trips are taken by the hour for each day of the week, for all riders and genders?
+* A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
+
+
+
 <img width="1225" alt="Screen Shot 2021-11-21 at 11 01 30 AM" src="https://user-images.githubusercontent.com/58860105/142769435-cbea59a6-ed9b-4156-87b6-63cd5a88e8d8.png">
 
 
