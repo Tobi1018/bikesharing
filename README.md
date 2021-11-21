@@ -54,4 +54,6 @@ This visualization shows a heatmap of the number of bike trips broken down by ge
 
 ## Deliverable 3
 
-[](https://public.tableau.com/app/profile/oluwatobiloba.oduntan/viz/CitiBike_16375133104580/CitiBikeChallenge)
+[Data Visualization](https://public.tableau.com/app/profile/oluwatobiloba.oduntan/viz/CitiBike_16375133104580/CitiBikeChallenge)
+
+
