@@ -25,6 +25,10 @@ Using Python and Pandas functions, converted the "trip-duration" column from an 
 
 ![TRIPWEEKD](https://user-images.githubusercontent.com/58860105/142770914-ebadb062-d4db-456b-ac0f-2fe97b4a5806.PNG)
 
+<img width="1229" alt="Screen Shot 2021-11-21 at 11 46 29 AM" src="https://user-images.githubusercontent.com/58860105/142771174-0942e822-c34a-474d-a52a-adda3d7f7a79.png">
+
+
+
 
 
 ## Deliverable 3
