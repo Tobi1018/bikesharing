@@ -20,5 +20,8 @@ Using Python and Pandas functions, converted the "trip-duration" column from an 
 
 
 
+![GIT](https://user-images.githubusercontent.com/58860105/142770483-ddec9f53-0cd9-4c77-bd77-094d856283bd.PNG)
+
+
 
 ## Deliverable 3
